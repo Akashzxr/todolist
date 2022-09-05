@@ -1,4 +1,4 @@
 import "./style.css";
-import { taskonclick} from "./task";
-taskonclick();
+import { run} from "./run";
+run();
 
